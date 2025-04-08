@@ -20,16 +20,16 @@ function App() {
        desc2="Desde peças sofisticadas até elementos modernos e vibrantes, oferecemos tudo o que você precisa para dar vida aos seus espaços."/>
       <Product
        image={imageMain} 
-       title="Lámpara Madison: Ilumine o seu espaço com estilo " 
+       title="Lampada Madison: Ilumine o seu espaço com estilo " 
        desc1="A Lâmpada Madison é um exemplo eloquente do design contemporâneo. Com o seu perfil elegante em preto ou branco e base sólida, representa muito mais do que uma simples fonte de iluminação - é um verdadeiro elemento de decoração que transforma ambientes."
        desc2="Compacta e versátil, com apenas 26 cm de altura, esta luminária combina funcionalidade e estética de forma magistral. O seu design minimalista adapta-se harmoniosamente a diversos espaços, desde uma mesa de cabeceira moderna até um escritório contemporâneo ou um ambiente de estar sofisticado."
        link="https://generalcatalogue2025.eu/deliver2yougift/#page/550"/>
       <ProductsList 
         data={[
-        {id:1, text:"Mini Jardin Zen Azumy", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/554", image:image1},
+        {id:1, text:"Mini Jardim Zen Azumy", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/554", image:image1},
         {id:2, text:"Difusor Aromático Kenet", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/557", image:image2},
-        {id:3, text:"Marco Fotos Digital Picty", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/561", image:image3},
-        {id:4, text:"Reloj Graox", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/563", image:image4},
+        {id:3, text:"Moldura Fotos Digital Picty", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/561", image:image3},
+        {id:4, text:"Relogio Graox", link:"https://generalcatalogue2025.eu/deliver2yougift/#page/563", image:image4},
         ]}
         title="Outros produtos desta categoria"/>
       <Catalogue
