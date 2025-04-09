@@ -16,13 +16,13 @@ function App() {
     <section className='app'>
       <Header
        title="Decoração e Estilo" 
-       desc1="Descubra a magia de criar ambientes únicos e acolhedores com nossa coleção de produtos de decoração e estilo." 
+       desc1="Descubra a magia de criar ambientes únicos e acolhedores com a nossa coleção de produtos de decoração e estilo." 
        desc2="Desde peças sofisticadas até elementos modernos e vibrantes, oferecemos tudo o que você precisa para dar vida aos seus espaços."/>
       <Product
        image={imageMain} 
        title="Lampada Madison: Ilumine o seu espaço com estilo " 
        desc1="A Lâmpada Madison é um exemplo eloquente do design contemporâneo. Com o seu perfil elegante em preto ou branco e base sólida, representa muito mais do que uma simples fonte de iluminação - é um verdadeiro elemento de decoração que transforma ambientes."
-       desc2="Compacta e versátil, com apenas 26 cm de altura, esta luminária combina funcionalidade e estética de forma magistral. O seu design minimalista adapta-se harmoniosamente a diversos espaços, desde uma mesa de cabeceira moderna até um escritório contemporâneo ou um ambiente de estar sofisticado."
+       desc2="Compacta e versátil, com apenas 26 cm de altura, este candeeiro combina funcionalidade e estética de forma magistral. O seu design minimalista adapta-se harmoniosamente a diversos espaços, desde uma mesa de cabeceira moderna até um escritório contemporâneo ou um ambiente de estar sofisticado."
        link="https://generalcatalogue2025.eu/deliver2yougift/#page/550"/>
       <ProductsList 
         data={[
